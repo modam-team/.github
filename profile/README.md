@@ -1,25 +1,85 @@
-# Modam
-기록을 모아 나를 담다
+<h1 align="center">🌱 Modam</h1>
 
+<p align="center">
+  <strong>기록을 모아 나를 담다</strong>
+</p>
+</br>
+<p align="center">
+  Modam은 일상의 기록을 통해<br/>
+  사용자의 독서 습관과 취향을 시각화하고,<br/>
+  나만의 리듬을 발견하도록 돕는 기록 중심 서비스입니다.
+</p>
 
-#### Project Duration
+<br/>
+<br/>
 
-###### MVP
-2025.10.11 - 2025.12.27
+<h2 align="center">🗓 Project Duration</h2>
 
-###### Alpha & Beta Test
-2025.12.27 - ing
+<p align="center">
+  <strong>🚀 MVP</strong><br/>
+  2025.10.11 - 2025.12.27
+</p>
 
+<br/>
 
-![modam](./presentation/modam.png)
+<p align="center">
+  <strong>🧪 Alpha & Beta Test</strong><br/>
+  2025.12.27 - ing
+</p>
+
+<br/>
+<br/>
+
+<p align="center">
+  <img src="./presentation/modam.png" width="700"/>
+</p>
 
 ---
 
-### Member
+<h2 align="center">👩‍👩‍👧‍👦 Team</h2>
 
-| 박재은 | 유지원 | 이세은 | 김소연 | 손상준 | 박보연 | 황규민 |
-| --- | --- | --- | --- | --- | --- | --- |
-| <a href="https://github.com/pzenww"><img src="https://avatars.githubusercontent.com/pzenww" width="100px;" alt=""/></a><br>PM | <a href="https://github.com/example2"><img src="./presentation/default.png" width="100px;" alt=""/></a><br>DE | <a href="https://github.com/example3"><img src="./presentation/default.png" width="100px;" alt=""/></a><br>DE | <a href="https://github.com/soyeon1806"><img src="https://avatars.githubusercontent.com/u/102381857?v=4" width="100px;" alt=""/></a><br>FE | <a href="https://github.com/sangjoonson"><img src="https://avatars.githubusercontent.com/sangjoonson" width="100px;" alt=""/></a><br>FE | <a href="https://github.com/boyeonp"><img src="https://avatars.githubusercontent.com/boyeonp" width="100px;" alt=""/></a><br>BE | <a href="https://github.com/HwangRock"><img src="https://avatars.githubusercontent.com/HwangRock" width="100px;" alt=""/></a><br>BE |
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/pzenww" width="90"/><br/>
+      <b>박재은</b><br/>
+      <sub>PM</sub>
+    </td>
+    <td align="center">
+      <img src="./presentation/default.png" width="90"/><br/>
+      <b>유지원</b><br/>
+      <sub>DE</sub>
+    </td>
+    <td align="center">
+      <img src="./presentation/default.png" width="90"/><br/>
+      <b>이세은</b><br/>
+      <sub>DE</sub>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/102381857?v=4" width="90"/><br/>
+      <b>김소연</b><br/>
+      <sub>FE</sub>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/sangjoonson" width="90"/><br/>
+      <b>손상준</b><br/>
+      <sub>FE</sub>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/boyeonp" width="90"/><br/>
+      <b>박보연</b><br/>
+      <sub>BE</sub>
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/HwangRock" width="90"/><br/>
+      <b>황규민</b><br/>
+      <sub>BE</sub>
+    </td>
+  </tr>
+</table>
 
+<br/>
 
-<img src="./presentation/member.png" width="250" />
+<p align="center">
+  <img src="./presentation/member.png" width="250"/>
+</p>
