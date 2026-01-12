@@ -10,6 +10,11 @@
   나만의 리듬을 발견하도록 돕는 기록 중심 서비스입니다.
 </p>
 
+
+<p align="center">
+  <img src="./presentation/modam.png" width="700"/>
+</p>
+
 <br/>
 <br/>
 
@@ -30,11 +35,6 @@
 <br/>
 <br/>
 
-<p align="center">
-  <img src="./presentation/modam.png" width="700"/>
-</p>
-
----
 
 <h2 align="center">👩‍👩‍👧‍👦 Team</h2>
 
