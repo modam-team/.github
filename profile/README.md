@@ -16,6 +16,25 @@
 </p>
 
 <br/>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=3gKuydnm7Jc" target="_blank"
+     style="
+       display: inline-block;
+       width: 420px;
+       padding: 22px 0;
+       background-color: #ff0000;
+       color: white;
+       text-decoration: none;
+       font-size: 28px;
+       font-weight: bold;
+       border-radius: 8px;
+       text-align: center;
+       box-shadow: 0 4px 10px rgba(0,0,0,0.25);
+     ">
+    ▶ YouTube
+  </a>
+</p>
 <br/>
 
 <h2 align="center">🗓 Project Duration</h2>
