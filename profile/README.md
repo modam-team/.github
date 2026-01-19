@@ -4,12 +4,14 @@
   <strong>기록을 모아 나를 담다</strong>
 </p>
 </br>
+
 <p align="center">
   Modam은 일상의 기록을 통해<br/>
   사용자의 독서 습관과 취향을 시각화하고,<br/>
   나만의 리듬을 발견하도록 돕는 기록 중심 서비스입니다.
 </p>
 
+<a href="https://www.youtube.com/watch?v=3gKuydnm7Jc" target="_blank">▶ YouTube</a>
 
 <p align="center">
   <img src="./presentation/modam.png" width="700"/>
@@ -17,25 +19,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=3gKuydnm7Jc" target="_blank"
-     style="
-       display: inline-block;
-       width: 420px;
-       padding: 22px 0;
-       background-color: #ff0000;
-       color: white;
-       text-decoration: none;
-       font-size: 28px;
-       font-weight: bold;
-       border-radius: 8px;
-       text-align: center;
-       box-shadow: 0 4px 10px rgba(0,0,0,0.25);
-     ">
-    ▶ YouTube
-  </a>
-</p>
-<br/>
 
 <h2 align="center">🗓 Project Duration</h2>
 
