@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://apps.apple.com/kr/app/modam/id6757088246" target="_blank">
-    <img src="./presentation/앱스토어-02.png" alt="apple" />
+    <img src="./presentation/앱스토어-02.png" alt="apple"width="450" />
   </a>
 </p>
 
