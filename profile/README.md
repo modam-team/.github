@@ -11,7 +11,19 @@
   나만의 리듬을 발견하도록 돕는 기록 중심 서비스입니다.
 </p>
 
-<a href="https://www.youtube.com/watch?v=3gKuydnm7Jc" target="_blank">▶ YouTube</a>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=3gKuydnm7Jc" target="_blank">
+    ▶ YouTube
+    
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/kr/app/modam/id6757088246" target="_blank">
+    <img src="./presentation/앱스토어-02.png" alt="apple" />
+  </a>
+</p>
+
 
 <p align="center">
   <img src="./presentation/modam.png" width="700"/>
@@ -31,10 +43,16 @@
 
 <p align="center">
   <strong>🧪 Alpha & Beta Test</strong><br/>
-  2025.12.27 - ing
+  2025.12.27 - 2026.01.22
 </p>
 
 <br/>
+
+<p align="center">
+  <strong>🎉 Launching </strong><br/>
+   2026.01.23
+</p>
+
 <br/>
 
 
