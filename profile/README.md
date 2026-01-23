@@ -13,16 +13,14 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=3gKuydnm7Jc" target="_blank">
-    ▶ YouTube
-    
+    <img src="./presentation/youtube.png" alt="youtube" width="150">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://apps.apple.com/kr/app/modam/id6757088246" target="_blank">
+    <img src="./presentation/앱스토어-02.png" alt="apple" width="300">
   </a>
 </p>
 
-<p align="center">
-  <a href="https://apps.apple.com/kr/app/modam/id6757088246" target="_blank">
-    <img src="./presentation/앱스토어-02.png" alt="apple"width="450" />
-  </a>
-</p>
 
 
 <p align="center">
