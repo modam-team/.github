@@ -63,4 +63,5 @@
 
 <p align="center">
   <img src="./presentation/member.png" width="250"/>
+  <img src="./presentation/conference.png" width="250"/>
 </p>
